@@ -35,3 +35,8 @@ img {
     float: left;
     margin: 15px;
 }
+
+.clearfix{
+    clear: both;
+    overflow: auto;
+}

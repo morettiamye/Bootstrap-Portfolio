@@ -23,7 +23,7 @@ p {
 
 
 /* I cant for the life of me figure out a complete background color change for the nav bar.  This seems to take care of most of it.*/
-.navbar-nav {
+.custom-nav {
     background-color: #fff;
 }
 

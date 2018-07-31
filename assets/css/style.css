@@ -32,8 +32,10 @@ p {
     border: 0.5px solid #ccc;
 }
 
-footer {
-    color: #ccc;
+.footer {
     background-color: #777;
+    color: #fff;
+    border-top: 5px solid #4aaaa5;
+    height: 100px;
 }
 

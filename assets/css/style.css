@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/seigaiha.png");
+    background-repeat: repeat;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p {
+    color: #777;
+}
+.btn {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-fluid {
+    background-color: #fff;
+}
+
+
+/* I cant for the life of me figure out a complete background color change for the nav bar.  This seems to take care of most of it.*/
+.navbar-nav {
+    background-color: #fff;
+}
+
+.jumbotron {
+    background-color: #fff;
+    border: 0.5px solid #ccc;
+}
+
+footer {
+    color: #ccc;
+    background-color: #777;
+}
+
